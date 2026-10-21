@@ -10,6 +10,7 @@ Ici, ce qui peut servir à d'autres : des outils et des notes tirés du travail 
 |---|---|
 | [verifier-fuites](https://github.com/JULIEN-CHRETIEN/verifier-fuites) | Vérifie en une commande si un site expose son dépôt `.git`, son `.env`, des sauvegardes servies en texte brut, un listage de répertoires ou une barre de débogage |
 | [pieges-laravel](https://github.com/JULIEN-CHRETIEN/pieges-laravel) | Des pièges Laravel, Blade, Filament et Livewire rencontrés en production : le symptôme, la cause dans le code du framework, le correctif et le test qui empêche le retour |
+| [pieges-seo](https://github.com/JULIEN-CHRETIEN/pieges-seo) | Des pièges SEO techniques rencontrés en production : données structurées, sitemap, maillage, Search Console, fiche Google, Lighthouse. Chaque fiche cite la documentation de Google |
 | [prestashop-customheadercode](https://github.com/JULIEN-CHRETIEN/prestashop-customheadercode) | Module PrestaShop qui place votre code dans le `<head>` sans toucher au thème |
 | [timbrure](https://github.com/JULIEN-CHRETIEN/timbrure) | Deux outils d'atelier dans le navigateur : pistes de logo sur une grille de 32 unités, et image vers trame vectorielle (SVG, DXF, G-code) |
 
